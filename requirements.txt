@@ -1,2 +1,5 @@
-gpg==1.24.3
-wheel==0.45.1
+streamlit
+pytesseract
+pdf2image
+pdfminer.six
+Pillow
